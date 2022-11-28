@@ -1,5 +1,7 @@
 ### Local Development
 
+## Astro Blog deployed with netlify
+
 ```zsh
 cd theme
 
